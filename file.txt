@@ -1,2 +1,3 @@
 contoh melakukan git push
-perubahan dari local
+
+perubahan dari rekan kerja
